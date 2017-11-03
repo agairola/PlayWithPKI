@@ -1,0 +1,25 @@
+{
+  "name": "PlayWithPKI2",
+  "main": "__init__.py",
+  "inputs": [
+    {
+      "name": "input_file",
+      "type": "inputFile",
+      "value": null,
+      "optional": false,
+      "description": "Showtech File"
+    }
+  ],
+  "author": "saurpath",
+  "description": "",
+  "entitlements": [],
+  "groups": [],
+  "contributors": [
+    "ndhingra",
+    "vimalkum"
+  ],
+  "minutes_saved": null,
+  "labels": [],
+  "service": "python2",
+  "timeOut": 60000
+}
